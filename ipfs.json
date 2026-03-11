@@ -10,6 +10,10 @@
       "value": "master"
     },
     {
+      "trait_type": "dev",
+      "value": "dev"
+    },
+    {
       "trait_type": "Background",
       "value": "Pastel Blue"
     },
